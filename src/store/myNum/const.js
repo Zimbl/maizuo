@@ -1,0 +1,3 @@
+const ADD_NUM = "ADD_NUM";
+const CHANGE_NUM = "CHANGE_NUM";
+export {ADD_NUM,CHANGE_NUM}
